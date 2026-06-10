@@ -1553,3 +1553,597 @@ Human development is a continuous process of growth and change that takes place 
 In conclusion, human development is a lifelong process. Each stage has unique characteristics and contributes to the overall growth and personality development of an individual.
 
 ---
+# UNIT–3 : 10–20 Marks Answers
+
+## 10. Explain the Meaning, Factors and Types of Memory.
+
+### Introduction
+
+Memory is one of the most important mental processes involved in learning. It enables an individual to retain, store, and recall information and experiences whenever required.
+
+---
+
+## Meaning of Memory
+
+Memory is the ability of the mind to retain learned experiences and reproduce them when needed. It is essential for learning, thinking, and problem-solving.
+
+According to psychologists, memory involves three processes:
+
+1. Learning or Encoding
+2. Retention or Storage
+3. Recall or Recognition
+
+---
+
+## Factors Affecting Memory
+
+### 1. Attention
+
+Proper attention helps in effective learning and retention.
+
+### 2. Interest
+
+Interesting material is remembered more easily than uninteresting material.
+
+### 3. Motivation
+
+Motivated learners tend to remember information for a longer period.
+
+### 4. Understanding
+
+Meaningful learning improves memory.
+
+### 5. Practice and Revision
+
+Repeated practice strengthens memory traces.
+
+### 6. Physical and Mental Health
+
+Good health contributes to better memory performance.
+
+---
+
+## Types of Memory
+
+### 1. Sensory Memory
+
+Stores sensory information for a very short duration.
+
+### 2. Short-Term Memory
+
+Retains information temporarily for a few seconds or minutes.
+
+### 3. Long-Term Memory
+
+Stores information for a long period, sometimes throughout life.
+
+### 4. Immediate Memory
+
+Allows immediate recall of recently learned information.
+
+### 5. Rote Memory
+
+Involves memorization through repetition.
+
+---
+
+## Conclusion
+
+Thus, memory is an essential mental process that supports learning, and its effectiveness depends on several factors.
+
+---
+
+# 11. Discuss the Characteristics of Good Memory.
+
+### Introduction
+
+A good memory helps an individual learn effectively, retain information for a long period, and recall it accurately when required.
+
+---
+
+## Characteristics of Good Memory
+
+### 1. Quick Learning
+
+A person with a good memory learns information rapidly.
+
+### 2. Long Retention
+
+Information remains stored for a long time.
+
+### 3. Accurate Recall
+
+Learned material can be recalled correctly when needed.
+
+### 4. Prompt Recognition
+
+Previously learned information is recognized easily.
+
+### 5. Clear Organization
+
+Memories remain systematic and free from confusion.
+
+### 6. Selective Forgetting
+
+Unnecessary information is forgotten while important information is retained.
+
+### 7. Readiness of Recall
+
+Information can be recalled at the appropriate time.
+
+### 8. Permanence
+
+Knowledge remains useful and available for future use.
+
+---
+
+## Conclusion
+
+Therefore, a good memory is characterized by effective retention, accurate recall, prompt recognition, and long-lasting learning.
+
+---
+
+# 12. Explain the Economic Methods of Memorization.
+
+### Introduction
+
+Economic methods of memorization are scientific techniques that help learners remember information efficiently with minimum time and effort.
+
+---
+
+## Economic Methods of Memorization
+
+### 1. Whole Method
+
+The entire material is learned as a single unit.
+
+**Example:** Learning a short poem completely.
+
+### 2. Part Method
+
+The material is divided into smaller sections and learned separately.
+
+**Example:** Learning one paragraph at a time.
+
+### 3. Spaced Method
+
+Learning is distributed over different intervals of time.
+
+**Example:** Studying one chapter daily instead of all at once.
+
+### 4. Massed Method
+
+Learning is completed in one continuous session without long breaks.
+
+### 5. Recitation Method
+
+The learner repeats the material aloud after studying it.
+
+### 6. Revision Method
+
+Regular revision strengthens retention and recall.
+
+### 7. Meaningful Learning Method
+
+Understanding the meaning of content improves memorization.
+
+---
+
+## Advantages of Economic Methods
+
+1. Improve retention.
+2. Reduce learning time.
+3. Increase recall efficiency.
+4. Make learning more effective.
+
+---
+
+## Conclusion
+
+Thus, economic methods of memorization help learners remember information more effectively and permanently.
+
+---
+
+# 13. Discuss Forgetting and its Causes in Detail.
+
+### Introduction
+
+Forgetting is a common psychological phenomenon. It refers to the inability to recall or recognize previously learned information.
+
+---
+
+## Meaning of Forgetting
+
+Forgetting is the loss or inability to retrieve information that was once learned and stored in memory.
+
+---
+
+## Causes of Forgetting
+
+### 1. Lack of Practice
+
+Information fades when it is not used or revised regularly.
+
+### 2. Passage of Time
+
+Memory traces gradually weaken over time.
+
+### 3. Interference
+
+New learning may interfere with old learning and vice versa.
+
+### 4. Lack of Interest
+
+Uninteresting material is forgotten quickly.
+
+### 5. Emotional Factors
+
+Fear, anxiety, stress, and tension affect memory.
+
+### 6. Physical and Mental Fatigue
+
+Exhaustion reduces the ability to retain and recall information.
+
+### 7. Poor Learning
+
+Improper understanding at the time of learning leads to forgetting.
+
+### 8. Repression
+
+Painful experiences may be unconsciously pushed out of awareness.
+
+---
+
+## Effects of Forgetting
+
+1. Loss of learned information.
+2. Difficulty in examinations.
+3. Reduced learning efficiency.
+
+---
+
+## Conclusion
+
+Therefore, forgetting is a natural process influenced by various psychological and environmental factors.
+
+---
+
+# 14. Explain Memory and Forgetting with Suitable Examples.
+
+### Introduction
+
+Memory and forgetting are two important mental processes closely related to learning. Memory helps in retaining information, while forgetting refers to the loss of previously learned information.
+
+---
+
+## Memory
+
+Memory is the ability to retain and recall information when required.
+
+### Example:
+
+A student remembers a mathematical formula during an examination because it has been learned and revised properly.
+
+---
+
+## Importance of Memory
+
+1. Helps in learning new knowledge.
+2. Assists in problem-solving.
+3. Supports academic achievement.
+4. Preserves past experiences.
+
+---
+
+## Forgetting
+
+Forgetting is the inability to recall previously learned information.
+
+### Example:
+
+A student may forget historical dates if they are not revised regularly after learning.
+
+---
+
+## Causes of Forgetting
+
+1. Lack of revision.
+2. Passage of time.
+3. Interference from new learning.
+4. Lack of interest.
+5. Stress and anxiety.
+
+---
+
+## Relationship between Memory and Forgetting
+
+* Memory stores and retrieves information.
+* Forgetting weakens or prevents recall.
+* Effective learning and revision strengthen memory and reduce forgetting.
+
+---
+
+## Conclusion
+
+In conclusion, memory and forgetting are complementary mental processes. Good learning habits, regular revision, and meaningful understanding strengthen memory and minimize forgetting.
+
+---
+# UNIT–4 : 10–20 Marks Answers
+
+## 15. Discuss the Importance of Statistics in Education.
+
+### Introduction
+
+Statistics is the science of collecting, organizing, presenting, analyzing, and interpreting numerical data. In the field of education, statistics plays an important role in educational planning, evaluation, and research.
+
+---
+
+## Importance of Statistics in Education
+
+### 1. Evaluation of Student Performance
+
+Statistics helps in measuring and evaluating students' academic achievement.
+
+### 2. Educational Research
+
+It assists researchers in collecting, analyzing, and interpreting data scientifically.
+
+### 3. Comparison of Results
+
+Statistical methods help compare the performance of students, classes, and institutions.
+
+### 4. Educational Planning
+
+It provides useful information for curriculum development and educational administration.
+
+### 5. Measurement and Assessment
+
+Statistics forms the basis of educational measurement and testing.
+
+### 6. Decision-Making
+
+Educational authorities use statistical data for policy formulation and decision-making.
+
+### 7. Prediction and Forecasting
+
+Statistical techniques help predict future educational trends and outcomes.
+
+### 8. Presentation of Data
+
+Large amounts of information can be presented in a simple and understandable form.
+
+---
+
+## Conclusion
+
+Thus, statistics is an indispensable tool in education. It helps teachers, researchers, and administrators make accurate and scientific decisions.
+
+---
+
+# 16. Explain the Computation of Mean, Median and Mode with Examples.
+
+### Introduction
+
+Mean, Median, and Mode are the three important measures of central tendency. They represent the central value of a data set and help summarize numerical information.
+
+---
+
+## 1. Arithmetic Mean
+
+### Definition
+
+The arithmetic mean is the average value obtained by dividing the sum of observations by their total number.
+
+### Formula
+
+\bar{X}=\frac{\sum X}{N}
+
+### Example
+
+Data: 5, 7, 9, 11, 13
+
+Sum = 45
+
+Number of observations = 5
+
+Mean = 45 ÷ 5 = **9**
+
+---
+
+## 2. Median
+
+### Definition
+
+The median is the middle value of a series when observations are arranged in order.
+
+### Example
+
+Data: 2, 4, 6, 8, 10
+
+Middle value = **6**
+
+Therefore,
+
+**Median = 6**
+
+---
+
+## 3. Mode
+
+### Definition
+
+The mode is the value that occurs most frequently in a distribution.
+
+### Example
+
+Data: 3, 5, 5, 7, 8, 5, 9
+
+Most frequent value = **5**
+
+Therefore,
+
+**Mode = 5**
+
+---
+
+## Importance of Central Tendency
+
+1. Simplifies large data.
+2. Facilitates comparison.
+3. Assists in statistical analysis.
+4. Helps in educational evaluation.
+
+---
+
+## Conclusion
+
+Therefore, Mean, Median, and Mode are useful statistical tools for summarizing and interpreting educational data.
+
+---
+
+# 17. Describe the Graphical Representation of Data (Histogram, Polygon, Pie Diagram and Bar Diagram).
+
+### Introduction
+
+Graphical representation is the presentation of statistical data through diagrams and graphs. It helps in understanding complex information easily and quickly.
+
+---
+
+## 1. Histogram
+
+A histogram is a graph used to represent a frequency distribution through adjacent rectangles.
+
+### Characteristics
+
+* Bars are drawn without gaps.
+* Represents continuous data.
+* Shows frequency distribution clearly.
+
+---
+
+## 2. Frequency Polygon
+
+A frequency polygon is a graph formed by joining points representing frequencies with straight lines.
+
+### Characteristics
+
+* Easy to compare two distributions.
+* Provides a clear picture of data trends.
+
+---
+
+## 3. Pie Diagram
+
+A pie diagram is a circular graph divided into sectors representing different parts of a whole.
+
+### Characteristics
+
+* Shows percentage distribution.
+* Easy to understand and attractive.
+
+---
+
+## 4. Bar Diagram
+
+A bar diagram represents data through rectangular bars of equal width.
+
+### Characteristics
+
+* Bars are separated by equal spaces.
+* Used for comparing different categories.
+
+---
+
+## Advantages of Graphical Representation
+
+1. Simplifies complex data.
+2. Facilitates comparison.
+3. Saves time in interpretation.
+4. Presents information attractively.
+
+---
+
+## Conclusion
+
+Thus, graphical representation is an effective method for presenting and interpreting statistical information in education and research.
+
+---
+
+# 18. Discuss Various Methods of Presenting Statistical Data.
+
+### Introduction
+
+The presentation of data is an important step in statistics. Proper presentation makes information meaningful, clear, and easy to interpret.
+
+---
+
+## Methods of Presenting Statistical Data
+
+### 1. Textual Presentation
+
+Data are presented in the form of written statements or paragraphs.
+
+**Example:** Reporting examination results in descriptive form.
+
+---
+
+### 2. Tabular Presentation
+
+Data are arranged systematically in rows and columns.
+
+**Advantages:**
+
+* Easy to understand.
+* Facilitates comparison.
+
+---
+
+### 3. Diagrammatic Presentation
+
+Data are represented through diagrams.
+
+#### Examples:
+
+* Bar Diagram
+* Pie Diagram
+* Pictogram
+
+**Advantages:**
+
+* Attractive and simple.
+* Useful for non-specialists.
+
+---
+
+### 4. Graphical Presentation
+
+Data are represented through graphs.
+
+#### Examples:
+
+* Histogram
+* Frequency Polygon
+* Frequency Curve
+* Ogive
+
+**Advantages:**
+
+* Easy interpretation.
+* Better visual understanding.
+
+---
+
+## Importance of Data Presentation
+
+1. Makes data meaningful.
+2. Facilitates analysis and comparison.
+3. Saves time and effort.
+4. Improves communication of information.
+
+---
+
+## Conclusion
+
+In conclusion, textual, tabular, diagrammatic, and graphical methods are the major ways of presenting statistical data. The choice of method depends on the nature and purpose of the information.
+
+---
