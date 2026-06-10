@@ -2394,3 +2394,187 @@ Most frequently occurring value.
 Thus, measures of central tendency and graphical methods are important tools for statistical analysis and presentation of data.
 
 ---
+## its Realy Important ##
+
+# ⭐ 1 Mark Questions (Comment / Quote Based)
+
+1. Who defined Psychology as "the science of behaviour"?
+   **Ans:** Watson
+
+2. Who is known as the Father of Psychology?
+   **Ans:** Wilhelm Wundt
+
+3. Who established the first Psychology laboratory?
+   **Ans:** Wilhelm Wundt
+
+4. Who said Psychology is the science of mental life?
+   **Ans:** William James
+
+5. Who defined Psychology as the positive science of behaviour?
+   **Ans:** J. B. Watson
+
+6. Who proposed the Forgetting Curve?
+   **Ans:** Hermann Ebbinghaus
+
+7. Who is called the Father of Educational Psychology?
+   **Ans:** Edward L. Thorndike
+
+8. Who proposed the Trial and Error Theory of Learning?
+   **Ans:** Thorndike
+
+9. Who introduced the concept of Intelligence Quotient (IQ)?
+   **Ans:** William Stern
+
+10. Who developed the first intelligence test?
+    **Ans:** Alfred Binet
+
+---
+# ⭐⭐ 2 Marks Questions (Comment Type)
+
+## Psychology
+
+### 1. Comment on Psychology as the Science of Behaviour.
+
+**Answer:**
+Psychology is called the science of behaviour because it systematically studies the actions, reactions, and responses of individuals in different situations. It aims to understand and predict human behaviour scientifically.
+
+---
+
+### 2. Comment on the Modern Meaning of Psychology.
+
+**Answer:**
+In the modern sense, Psychology is defined as the scientific study of behaviour and mental processes. It includes thinking, learning, perception, memory, and emotions.
+
+---
+
+### 3. Comment on Watson's View of Psychology.
+
+**Answer:**
+According to J. B. Watson, Psychology is the positive science of behaviour. He emphasized the study of observable behaviour rather than mental processes.
+
+---
+
+### 4. Comment on William James' Definition of Psychology.
+
+**Answer:**
+William James defined Psychology as the science of mental life. According to him, psychology studies feelings, thoughts, and mental activities.
+
+---
+
+### 5. Write a Short Note on Educational Psychology.
+
+**Answer:**
+Educational Psychology is the branch of psychology that studies the behaviour of learners in educational situations. It helps improve teaching methods and the learning process.
+
+---
+
+# Human Development
+
+### 6. Comment on Adolescence as a Period of Storm and Stress.
+
+**Answer:**
+Adolescence is called a period of storm and stress because adolescents experience rapid physical, emotional, and social changes, often leading to conflicts, tension, and emotional instability.
+
+---
+
+### 7. Why is Adolescence Called a Transitional Stage?
+
+**Answer:**
+Adolescence is called a transitional stage because it marks the transition from childhood to adulthood. During this period, significant physical, mental, and social changes occur.
+
+---
+
+### 8. Comment on the Importance of Childhood.
+
+**Answer:**
+Childhood is an important stage because habits, attitudes, values, and personality traits are developed during this period. It lays the foundation for future development.
+
+---
+
+### 9. Write a Short Note on Developmental Characteristics.
+
+**Answer:**
+Developmental characteristics refer to the physical, mental, emotional, and social changes that occur in an individual at different stages of life.
+
+---
+
+# Memory
+
+### 10. Comment on Memory as a Mental Process.
+
+**Answer:**
+Memory is a mental process that enables individuals to retain, store, and recall past experiences and information. It plays an important role in learning and thinking.
+
+---
+
+### 11. Write a Short Note on Forgetting.
+
+**Answer:**
+Forgetting is the inability to recall or recognize previously learned information. It may occur due to lack of practice, interference, or passage of time.
+
+---
+
+### 12. Comment on Ebbinghaus' Contribution to Memory.
+
+**Answer:**
+Hermann Ebbinghaus made significant contributions to the study of memory and forgetting. He introduced the Forgetting Curve, which explains how information is lost over time.
+
+---
+
+### 13. What Do You Mean by Good Memory?
+
+**Answer:**
+A good memory is the ability to learn quickly, retain information for a long time, and recall it accurately when needed.
+
+---
+
+### 14. Comment on Memorization.
+
+**Answer:**
+Memorization is the process of learning and retaining information for future recall. It is an important aspect of the learning process.
+
+---
+
+# Statistics
+
+### 15. Comment on the Importance of Statistics in Education.
+
+**Answer:**
+Statistics is important in education because it helps in collecting, analyzing, and interpreting educational data. It also assists in evaluation and educational research.
+
+---
+
+### 16. Write a Short Note on Mean.
+
+**Answer:**
+Mean is the arithmetic average of a set of observations. It is obtained by dividing the sum of observations by their total number.
+
+---
+
+### 17. Write a Short Note on Median.
+
+**Answer:**
+Median is the middle value of a series when the observations are arranged in ascending or descending order. It represents the central position of the data.
+
+---
+
+### 18. Write a Short Note on Mode.
+
+**Answer:**
+Mode is the value that occurs most frequently in a data set. It indicates the most common observation in a distribution.
+
+---
+
+### 19. Comment on Graphical Representation of Data.
+
+**Answer:**
+Graphical representation of data presents information through graphs and diagrams. It makes data easy to understand, compare, and interpret.
+
+---
+
+### 20. Why is Statistics Important in Educational Research?
+
+**Answer:**
+Statistics is important in educational research because it helps researchers analyze data objectively, draw valid conclusions, and make scientific decisions.
+
+---
